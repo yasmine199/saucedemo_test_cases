@@ -1,5 +1,3 @@
-# saucedemo_test_cases
-
 Test cases for web application:
 
 Description:
